@@ -1,4 +1,4 @@
-# Multi-Cloud Infrastructure-as-Code Lab
+# Multi-Cloud Infrastructure-as-Code Sandbox
 
 This repository contains example Terraform configurations for provisioning basic infrastructure across major cloud providers: **Azure**, **AWS**, and **GCP**.
 
@@ -18,4 +18,8 @@ This is a personal learning sandbox for mastering Infrastructure-as-Code (IaC) u
 
 ## 🚀 Getting Started
 
-Navigate to the desired cloud provider and follow the instructions in the local README.
+Navigate to the desired cloud provider and follow the instructions in the local README for the specific implementations.
+
+The prerequisitie packages are as follows:
+- [Terraform](https://developer.hashicorp.com/terraform/install) - _Note: For windows it can be installed with [Chocolately](https://chocolatey.org/install)_  
+- For Azure install the [Azure CLI](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest).  
